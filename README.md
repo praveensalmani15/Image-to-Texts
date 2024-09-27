@@ -2,7 +2,8 @@
 We will be extracting the text from images
 Here’s a sample README file for your GitHub repository:
 
----
+![image](https://github.com/user-attachments/assets/be2dec07-f776-490d-94ee-417106dc7407)
+
 
 # Image to Text Annotation using Google Gemini
 
